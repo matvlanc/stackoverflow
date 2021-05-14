@@ -10,7 +10,8 @@
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
-An small change in order to verify the link!
+
+_**A Small change is made in IntelelliJ, just as a TEST!**_
 
 ## Project Motivation<a name="motivation"></a>
 

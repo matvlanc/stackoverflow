@@ -10,10 +10,11 @@
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+An small change in order to verify the link!
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+**For this project, I was interestested in using Stack Overflow data from 2017 to better understand:**
 
 1. How other developers suggested breaking into the field (what education to pursue)?
 2. What factors about an individual contributed to salary?
